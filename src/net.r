@@ -1,3 +1,10 @@
+# Creates and trains a neural network based on training data in a .csv file
+# __author__ = "Michael Wahler"
+# __copyright__ = "Copyright 2020, Michael Wahler"
+# __license__ = "GPLv3"
+# __version__ = "0.1"
+# __status__ = "Prototype"
+
 library(neuralnet)
 library(readr)
 

@@ -1,5 +1,13 @@
-# this file can be loaded using 
-#     source ("~/R/waves.r")
+# Generates test data from the .wav files stored in the samples directory
+# input: .wav files in ../samples/
+# output: test_data_*.csv in ../generated/
+#
+# __author__ = "Michael Wahler"
+# __copyright__ = "Copyright 2020, Michael Wahler"
+# __license__ = "GPLv3"
+# __version__ = "0.1"
+# __status__ = "Prototype"
+
 
 # load required libraries
 library (seewave)
