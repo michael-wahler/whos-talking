@@ -8,7 +8,6 @@
 # __version__ = "0.1"
 # __status__ = "Prototype"
 
-
 # load required libraries
 library (seewave)
 library (tuneR)
